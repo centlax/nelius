@@ -1,0 +1,24 @@
+{
+  "name": "@nelius/root",
+  "private": true,
+  "description": "monorepo for nelius",
+  "version": "0.0.0",
+  "packageManager": "pnpm@9.5.0",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "fmt": "prettier --write --check ."
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.56.12",
+    "eslint": "^9.9.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-svelte": "^2.43.0",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-svelte": "^3.2.6",
+    "turbo": "^2.1.1",
+    "typescript-eslint": "^8.4.0"
+  }
+}
