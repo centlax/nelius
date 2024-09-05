@@ -301,3 +301,47 @@
 2024-09-05T20:09:52.707087Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
 2024-09-05T20:10:07.806710Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/conf/nelius.toml")}
 2024-09-05T20:10:07.806758Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:17:36.895021Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("velius")}
+2024-09-05T20:17:36.895076Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:17:46.093736Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("velius")}
+2024-09-05T20:17:46.093767Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:19:05.891580Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".olsen")}
+2024-09-05T20:19:05.891610Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:19:11.289988Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".olsen")}
+2024-09-05T20:19:11.290006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:20:42.489128Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal")}
+2024-09-05T20:20:42.489168Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:21:08.888236Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/migrations")}
+2024-09-05T20:21:08.888260Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:21:32.387174Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/migrations")}
+2024-09-05T20:21:32.387192Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:21:43.186973Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/cmd/serve.go")}
+2024-09-05T20:21:43.186992Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:21:45.785971Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/cmd/serve.go")}
+2024-09-05T20:21:45.785994Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:16.082575Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web.go")}
+2024-09-05T20:24:16.082635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:18.082167Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web.go")}
+2024-09-05T20:24:18.082186Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:23.881772Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web.go")}
+2024-09-05T20:24:23.881790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:31.782132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web")}
+2024-09-05T20:24:31.782164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:35.682359Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web/web.go"), AnchoredSystemPathBuf("nelius/internal/web.go")}
+2024-09-05T20:24:35.682377Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:41.882092Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/auth")}
+2024-09-05T20:24:41.882135Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:56.882187Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/auth/jwt.go")}
+2024-09-05T20:24:56.882207Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:24:59.182123Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/auth/jwt.go")}
+2024-09-05T20:24:59.182140Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:25:04.881321Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/web/web.go")}
+2024-09-05T20:25:04.881340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:25:36.480175Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/cmd"), AnchoredSystemPathBuf("nelius/internal/cmd")}
+2024-09-05T20:25:36.480199Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:25:53.980478Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/studio"), AnchoredSystemPathBuf("nelius/internal")}
+2024-09-05T20:25:53.980514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:26:26.178853Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/studio"), AnchoredSystemPathBuf("nelius/internal")}
+2024-09-05T20:26:26.178870Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-05T20:26:31.779358Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("nelius/internal/cmd"), AnchoredSystemPathBuf("nelius/cmd")}
+2024-09-05T20:26:31.779385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
