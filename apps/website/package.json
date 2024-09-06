@@ -9,6 +9,10 @@
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
   },
+  "dependencies": {
+    "@tailwindcss/vite": "4.0.0-alpha.23",
+    "tailwindcss": "4.0.0-alpha.23"
+  },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/kit": "^2.0.0",

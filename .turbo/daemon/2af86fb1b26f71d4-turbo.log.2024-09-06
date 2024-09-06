@@ -1,0 +1,172 @@
+2024-09-06T03:13:43.359067Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-09-06T03:13:43.359078Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:13:52.159036Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:13:52.159062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:13:55.758889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:13:55.758905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:14:01.457905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:14:01.457921Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:14:03.059029Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:14:03.059045Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:14:06.158619Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:14:06.158636Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:14:08.159163Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2024-09-06T03:14:08.159191Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:14:09.357736Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/app.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/1.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/non-ambient.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/tsconfig.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/2.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/0.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/ambient.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/matchers.js")}
+2024-09-06T03:14:09.357751Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:14:09.459319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/root.svelte"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/src/routes/$types.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/root.js")}
+2024-09-06T03:14:09.459342Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:14:09.464263Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:18:01.855085Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_23682_63066f918bd898504e0ecc957e118e4a"), AnchoredSystemPathBuf("")}
+2024-09-06T03:18:01.855792Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:18:04.451049Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.703387528")}
+2024-09-06T03:18:04.451062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:18:05.350069Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/package.json.4039849646"), AnchoredSystemPathBuf("pkgs/ui/package.json")}
+2024-09-06T03:18:05.350080Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:18:35.150327Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/vite.config.ts")}
+2024-09-06T03:18:35.150353Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:18:46.350261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/vite.config.ts")}
+2024-09-06T03:18:46.350278Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:18:48.749655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/vite.config.ts")}
+2024-09-06T03:18:48.749676Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:18:51.248382Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/vite.config.ts")}
+2024-09-06T03:18:51.248400Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:19:10.354224Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/app.css")}
+2024-09-06T03:19:10.354261Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:19:12.046693Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/app.css")}
+2024-09-06T03:19:12.046711Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:19:19.742952Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/app.css")}
+2024-09-06T03:19:19.742982Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:19:39.537660Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2024-09-06T03:19:39.537682Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:19:40.337479Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/src/routes/$types.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/0.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/ambient.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/matchers.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/root.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/tsconfig.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/app.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/1.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/2.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/root.svelte"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/non-ambient.d.ts")}
+2024-09-06T03:19:40.337498Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:19:40.337521Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:20:43.333665Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:20:43.333692Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:20:53.533369Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:20:53.533385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:20:59.532702Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-06T03:20:59.532718Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:21:11.832572Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie")}
+2024-09-06T03:21:11.832583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:21:13.331695Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/app.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/0.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/1.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/non-ambient.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/tsconfig.json"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/matchers.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/ambient.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/2.js")}
+2024-09-06T03:21:13.331705Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:13.406772Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:13.432068Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/root.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/root.svelte"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:13.432077Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:13.440351Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:34.931772Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:34.931801Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:36.431761Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/0.js")}
+2024-09-06T03:21:36.431772Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:36.431795Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:39.031936Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:39.031955Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:39.131933Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:39.131945Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:39.131968Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:44.231523Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:44.231541Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:44.330616Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:44.330629Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:44.330649Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:49.730359Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:49.730379Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:49.830628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:49.830639Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:49.830660Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:50.831554Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:50.831565Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:50.931447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:50.931458Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:50.931476Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:54.431512Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:54.431530Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:54.531041Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:54.531055Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:54.531080Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:21:58.830675Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:21:58.830695Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:58.930569Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:21:58.930578Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:21:58.930596Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:22:23.429953Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+page.svelte")}
+2024-09-06T03:22:23.429996Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:22:23.530158Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:22:23.530169Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:22:23.532296Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:23:01.228502Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/tailwind.config.ts")}
+2024-09-06T03:23:01.228531Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:23:30.827133Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/src/routes/+layout.svelte")}
+2024-09-06T03:23:30.827162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:23:30.926930Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:23:30.926943Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:23:30.926966Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:26:09.922141Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/website/package.json")}
+2024-09-06T03:26:09.922188Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/website"), path: AnchoredSystemPathBuf("apps/website") }}))
+2024-09-06T03:26:11.121343Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/website/package.json")}
+2024-09-06T03:26:11.121353Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/website"), path: AnchoredSystemPathBuf("apps/website") }}))
+2024-09-06T03:26:18.621884Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/package.json")}
+2024-09-06T03:26:18.621905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:26:22.821414Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/docs/package.json")}
+2024-09-06T03:26:22.821434Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/docs"), path: AnchoredSystemPathBuf("apps/docs") }}))
+2024-09-06T03:26:31.320668Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/website/tailwind.config.ts")}
+2024-09-06T03:26:31.320678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/website"), path: AnchoredSystemPathBuf("apps/website") }}))
+2024-09-06T03:26:34.721760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/tailwind.config.ts")}
+2024-09-06T03:26:34.721771Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:26:37.520692Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/docs/tailwind.config.ts")}
+2024-09-06T03:26:37.520717Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/docs"), path: AnchoredSystemPathBuf("apps/docs") }}))
+2024-09-06T03:26:43.722141Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_26124_0b36c757c597c75f50c2ab618a192bdf")}
+2024-09-06T03:26:43.722156Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:26:44.520639Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.3183840581")}
+2024-09-06T03:26:44.520647Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:27:32.727648Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/app.css")}
+2024-09-06T03:27:32.727672Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:07.717402Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/docs/src/app.css")}
+2024-09-06T03:28:07.717413Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/docs"), path: AnchoredSystemPathBuf("apps/docs") }}))
+2024-09-06T03:28:14.917843Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/website/src/app.css")}
+2024-09-06T03:28:14.917866Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/website"), path: AnchoredSystemPathBuf("apps/website") }}))
+2024-09-06T03:28:30.417609Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:30.417619Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:33.217309Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:33.217327Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:35.016546Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:35.016562Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:36.416716Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:36.416736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:38.017317Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:38.017330Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:28:43.516434Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:28:43.516444Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:29:59.114018Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/lib/components/dashboard/dashboard.svelte")}
+2024-09-06T03:29:59.114057Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:06.513934Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:06.513954Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:08.413899Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:08.413919Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:09.714256Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:09.714273Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:12.613127Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:12.613142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:15.813052Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:15.813073Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:20.512768Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/docs/src/app.css")}
+2024-09-06T03:30:20.512787Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/docs"), path: AnchoredSystemPathBuf("apps/docs") }}))
+2024-09-06T03:30:20.613246Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/1.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/0.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/ambient.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/matchers.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/non-ambient.d.ts"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/root.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/app.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/client/nodes/2.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/tsconfig.json"), AnchoredSystemPathBuf("apps/studio/.svelte-kit/types/src/routes/$types.d.ts")}
+2024-09-06T03:30:20.613258Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:20.613279Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-06T03:30:20.712867Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/app.css"), AnchoredSystemPathBuf("package.json"), AnchoredSystemPathBuf("apps/website/src/app.css")}
+2024-09-06T03:30:20.712877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T03:30:20.812161Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/src/routes/$types.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/ambient.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/1.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/non-ambient.d.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/app.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/0.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/nodes/2.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/server/internal.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/types/route_meta_data.json"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/root.js"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/generated/client/matchers.js"), AnchoredSystemPathBuf("pkgs/ui/src/app.css"), AnchoredSystemPathBuf("pkgs/ui/vite.config.ts"), AnchoredSystemPathBuf("pkgs/ui/.svelte-kit/tsconfig.json")}
+2024-09-06T03:30:20.812171Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/ui"), path: AnchoredSystemPathBuf("pkgs/ui") }}))
+2024-09-06T03:30:21.013161Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2024-09-06T03:30:21.013179Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T03:30:28.612389Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/routes/+layout.svelte")}
+2024-09-06T03:30:28.612411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:43.812379Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/lib/components/nodebar/nodebar.svelte")}
+2024-09-06T03:30:43.812500Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:30:53.011797Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/lib/components/sidebar/sidebar.svelte")}
+2024-09-06T03:30:53.011805Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
+2024-09-06T03:31:01.612260Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/studio/src/lib/components/viewer/viewer.svelte")}
+2024-09-06T03:31:01.612269Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@nelius/studio"), path: AnchoredSystemPathBuf("apps/studio") }}))
