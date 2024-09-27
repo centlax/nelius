@@ -2,16 +2,6 @@ use axum::{routing::get, Router};
 mod parser;
 mod query;
 
-// Each route provide either
-#[allow(dead_code)]
-enum Method {
-    OPTIONS,
-    GET,
-    HEAD,
-    POST,
-    PATCH,
-    DELETE,
-}
 
 // basic handler that responds with a static string
 async fn root() -> &'static str {

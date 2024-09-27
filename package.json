@@ -9,10 +9,10 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "fmt": "prettier --write --check .",
-    "dev:docs": "turbo run dev --filter=@nelius/docs --parallel",
-    "dev:studio": "turbo run dev --filter=@nelius/studio --parallel",
-    "dev:website": "turbo run dev --filter=@nelius/website --parallel",
-    "dev:ui": "turbo run dev --filter=@nelius/ui --parallel"
+    "docs": "pnpm --filter=@nelius/docs --",
+    "studio": "pnpm --filter=@nelius/studio --",
+    "website": "pnpm --filter=@nelius/website --",
+    "ui": "turbo run --filter=@nelius/ui --"
   },
   "devDependencies": {
     "@types/eslint": "^8.56.12",

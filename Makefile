@@ -1,3 +1,3 @@
 git:
 	@echo "Git add & commit"
-	bash .scripts/git.sh
+	bash .config/scripts/git.sh
